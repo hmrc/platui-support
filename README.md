@@ -1,8 +1,4 @@
 
 # platui-support
 
-This is a placeholder README.md for a new repository
-
-### License
-
-This code is open source software licensed under the [Apache 2.0 License]("http://www.apache.org/licenses/LICENSE-2.0.html").
+This repository contains no code and its use will be to collect and track issues that may come from other service teams on the platform.
