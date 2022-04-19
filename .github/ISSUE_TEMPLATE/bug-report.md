@@ -1,9 +1,6 @@
 ---
-name: "🐛 Bug report"
-about: Report a bug or regression
-title: ''
-labels: "\U0001F41B bug, awaiting triage"
-assignees: ''
+name: "Bug report"
+about: Report a bug or regression in libraries, services, and tools
 
 ---
 
@@ -13,6 +10,12 @@ assignees: ''
     Your issue might already exist. If so, add a comment to the existing issue instead of creating a new one. You can find existing issues here:
     - an existing Github issue: https://github.com/hmrc/platui-support/issues
 -->
+## Library or service name
+<!-- PlatUI looks after numerous libraries, services, and tools - please do specify which repository
+your bug relates to. -->
+
+## Library version (where applicable)
+<!-- If the bug relates to a library or plugin, please include version to reproduce this bug. -->
 
 ## Description of the issue
 <!-- A clear and concise summary of what the bug is. -->
@@ -29,4 +32,3 @@ assignees: ''
 - Operating system:
 - Browser:
 - Browser version:
-- Library Name & Version:

@@ -1,9 +1,6 @@
 ---
-name: "✨ Feature request"
-about: Suggest a new feature or idea
-title: ''
-labels: "feature request, awaiting triage"
-assignees: ''
+name: "Feature request"
+about: Suggest a new feature or idea in libraries, services, and tools
 
 ---
 
@@ -13,6 +10,10 @@ assignees: ''
   Your issue might already exist. If so, add a comment to the existing issue instead of creating a new one. You can find existing issues here:
   - an existing Github issue: https://github.com/hmrc/platui-support/issues
 -->
+
+## Library or service name
+<!-- PlatUI looks after numerous libraries, services, and tools - please do specify which repository
+your bug relates to. -->
 
 ## Related component
 <!-- Does this feature relate to an existing component? -->
