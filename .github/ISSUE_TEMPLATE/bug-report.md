@@ -1,7 +1,6 @@
 ---
 name: "Bug report"
 about: Report a bug or regression in libraries, services, and tools
-labels: "accepted bug, cantfix, invalid, triage, wontfix"
 
 ---
 

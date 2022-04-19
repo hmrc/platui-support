@@ -1,7 +1,6 @@
 ---
 name: "Feature request"
 about: Suggest a new feature or idea in libraries, services, and tools
-labels: "accepted task, accepted spike, cantfix, triage, wontfix"
 
 ---
 
