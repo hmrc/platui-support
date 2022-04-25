@@ -47,5 +47,5 @@ Please report any issues with this repo in Slack at `#team-plat-ui`.
 - [govuk-frontend](https://github.com/alphagov/govuk-frontend/) - reusable Nunjucks HTML components from GOV.UK
 
 ## Owning team documentation
-Instructions for team members maintaining this repository can be found [here](https://github.com/hmrc/platui-support/blob/main/docs/maintainers.md).
+Instructions for team members maintaining this repository can be found [here](docs/maintainers.md).
 
